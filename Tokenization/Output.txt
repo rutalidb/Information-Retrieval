@@ -1,0 +1,76 @@
+Output sample:
+
+Program 1. Tokenization
+1. The number of tokens in the Cranfield text collection : 230824
+2. The number of unique words in the Cranfield text collection : 8780
+3. The number of words that occur only once in the Cranfield text collection : 3316
+4. The 30 most frequent words in the Cranfield text collection :
+the 19450
+of 12717
+and 6677
+a 5987
+in 4651
+to 4563
+is 4114
+for 3493
+are 2429
+with 2265
+on 1944
+flow 1849
+at 1834
+by 1756
+that 1570
+an 1388
+be 1272
+pressure 1207
+boundary 1156
+from 1116
+as 1113
+this 1081
+layer 1002
+which 975
+number 973
+results 885
+it 857
+mach 824
+theory 788
+shock 712
+5. The average number of word stems per document : 164
+
+Program 2. Stemming
+1. The number of distinct stems in the Cranfield text collection : 6075
+2. The number of stems that occur only once in the Cranfield text collection : 2254
+3. The 30 most frequent stems in the Cranfield text collection :
+the 19450
+of 12717
+and 6677
+a 5987
+in 4651
+to 4563
+is 4114
+for 3493
+ar 2458
+with 2265
+on 2262
+flow 2080
+at 1834
+by 1756
+that 1570
+an 1388
+pressur 1382
+be 1369
+number 1347
+boundari 1185
+layer 1134
+from 1116
+as 1113
+result 1087
+thi 1081
+it 1044
+effect 996
+which 975
+method 887
+theori 881
+4. The average number of word stems per document : 164
+
+Execution time : 1211 milliseconds
